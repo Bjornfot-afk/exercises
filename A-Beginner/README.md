@@ -5,7 +5,7 @@
 2. Skapa en string
 const str = "Svar på fråga 2"
 3. Skapa en tom array
-[" "," "]
+var name = [" "," "]
 4. Skapa ett tomt objekt
 var car = ""
 5. Deklarera en konstant variabel och tilldela den ett värde.
