@@ -14,7 +14,7 @@ const hej = "välkommnande"
 let hej = "Välkommnande"
 const hej = "välkommnande"
 7. Skapa en array med tre element
-
+const array = ["Audi","saab","bmw"]
 8. Skapa ett objekt som representerar dig själv och som innehåller properties `firstName`, `lastName` och `age`
 
 9. Skriv ett uttryck
