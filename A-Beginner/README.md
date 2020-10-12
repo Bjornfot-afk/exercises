@@ -7,7 +7,7 @@ const str = "Svar på fråga 2"
 3. Skapa en tom array
 [" "," "]
 4. Skapa ett tomt objekt
-var car = "audi"
+var car = ""
 5. Deklarera en konstant variabel och tilldela den ett värde.
 
 6. Deklarera en variabel och tilldela den ett värde. Tilldela den sedan ett nytt värde på raden under.
