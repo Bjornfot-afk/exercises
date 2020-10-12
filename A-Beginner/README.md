@@ -9,9 +9,10 @@ var name = [" "," "]
 4. Skapa ett tomt objekt
 var car = ""
 5. Deklarera en konstant variabel och tilldela den ett värde.
-
+const hej = "välkommnande"
 6. Deklarera en variabel och tilldela den ett värde. Tilldela den sedan ett nytt värde på raden under.
-
+let hej = "Välkommnande"
+const hej = "välkommnande"
 7. Skapa en array med tre element
 
 8. Skapa ett objekt som representerar dig själv och som innehåller properties `firstName`, `lastName` och `age`
