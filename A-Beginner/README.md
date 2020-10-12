@@ -1,13 +1,13 @@
 # Beginner level
 
 1. Skriv en kommentar
-
+<!-- Hej -->
 2. Skapa en string
-
+const str = "Svar på fråga 2"
 3. Skapa en tom array
-
+[" "," "]
 4. Skapa ett tomt objekt
-
+var car = "audi"
 5. Deklarera en konstant variabel och tilldela den ett värde.
 
 6. Deklarera en variabel och tilldela den ett värde. Tilldela den sedan ett nytt värde på raden under.
@@ -17,7 +17,7 @@
 8. Skapa ett objekt som representerar dig själv och som innehåller properties `firstName`, `lastName` och `age`
 
 9. Skriv ett uttryck
-
+3 * 5 
 10. Konkatenera tre strängar
 
 11. Logga ut lite text i konsolen
