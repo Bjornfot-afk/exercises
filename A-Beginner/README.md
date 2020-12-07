@@ -16,13 +16,18 @@ const hej = "välkommnande"
 7. Skapa en array med tre element
 const array = ["Audi","saab","bmw"]
 8. Skapa ett objekt som representerar dig själv och som innehåller properties `firstName`, `lastName` och `age`
-
+const person = ["Jonah","Bjornfot","17"]
 9. Skriv ett uttryck
 3 * 5 
 10. Konkatenera tre strängar
 
-11. Logga ut lite text i konsolen
+const str1 = "hej"
+const str2 = "på"
+const str3 = "dig"
 
+const hels = str1 + str2 + str3
+11. Logga ut lite text i konsolen
+console.log(hels)
 12. Skriv en funktion och kalla på den
 
 13. Skriv en if-sats
